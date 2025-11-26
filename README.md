@@ -19,7 +19,7 @@
 
 ## 🎥 Preview
 
-> **📹 [Watch the full demo video here](https://github.com/user-attachments/assets/2ec30933-69ff-4e6a-b9e3-a7049d50551f)**
+
 https://github.com/user-attachments/assets/2ec30933-69ff-4e6a-b9e3-a7049d50551f
 
 
@@ -406,6 +406,7 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 [⬆ Back to Top](#-codecommunity)
 
 </div>
+
 
 
 
