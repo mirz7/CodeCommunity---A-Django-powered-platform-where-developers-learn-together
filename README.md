@@ -21,20 +21,7 @@
 
 > **📹 [Watch the full demo video here](#)**
 
-<div align="center">
 
-### 🏠 Home Page
-![Home Screenshot](https://via.placeholder.com/800x400/1a1a2e/00d4ff?text=Home+Page+Screenshot)
-
-### 💬 Study Room
-![Room Screenshot](https://via.placeholder.com/800x400/1a1a2e/00d4ff?text=Study+Room+Screenshot)
-
-### 👤 User Profile
-![Profile Screenshot](https://via.placeholder.com/800x400/1a1a2e/00d4ff?text=Profile+Page+Screenshot)
-
-*Replace the placeholders above with actual screenshots of your application*
-
-</div>
 
 ---
 
@@ -419,3 +406,4 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 [⬆ Back to Top](#-codecommunity)
 
 </div>
+
