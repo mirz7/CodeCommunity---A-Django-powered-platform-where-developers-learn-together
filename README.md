@@ -11,7 +11,7 @@
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[Live Demo](#) • [Features](#-features) • [Installation](#-installation--setup) • [Contributing](#-contributing)
+[Demo](#) • [Features](#-features) • [Installation](#-installation--setup) • [Contributing](#-contributing)
 
 </div>
 
@@ -20,7 +20,7 @@
 ## 🎥 Preview
 
 > **📹 [Watch the full demo video here](https://github.com/user-attachments/assets/2ec30933-69ff-4e6a-b9e3-a7049d50551f)**
-
+https://github.com/user-attachments/assets/2ec30933-69ff-4e6a-b9e3-a7049d50551f
 
 
 ---
@@ -406,5 +406,6 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 [⬆ Back to Top](#-codecommunity)
 
 </div>
+
 
 
