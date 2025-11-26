@@ -356,36 +356,8 @@ Contributions are what make the open-source community such an amazing place to l
 
 ---
 
-## 🗺️ Roadmap
 
-- [x] User authentication system
-- [x] Study room creation and management
-- [x] Real-time messaging
-- [x] Topic-based filtering
-- [ ] Private messaging between users
-- [ ] Video chat integration
-- [ ] Code snippet sharing with syntax highlighting
-- [ ] Email notifications
-- [ ] Mobile app (React Native)
-- [ ] AI-powered room suggestions
 
-See the [open issues](https://github.com/yourusername/codecommunity/issues) for a full list of proposed features and known issues.
-
----
-
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` file for more information.
-
----
-
-## 📧 Contact
-
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
-
-**Project Link:** [https://github.com/yourusername/codecommunity](https://github.com/yourusername/codecommunity)
-
----
 
 ## 🙏 Acknowledgments
 
@@ -406,6 +378,7 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 [⬆ Back to Top](#-codecommunity)
 
 </div>
+
 
 
 
