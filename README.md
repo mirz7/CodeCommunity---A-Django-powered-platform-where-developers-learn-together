@@ -278,7 +278,7 @@ codecommunity/
 ├── 📂 media/                         # User uploaded files
 │   └── 📂 avatars/                  # Profile pictures
 │
-├── 📂 codecommunity/                 # Project settings
+├── 📂 studysumu/                 # Project settings
 │   ├── 📄 settings.py               # Django settings
 │   ├── 📄 urls.py                   # Root URL configuration
 │   ├── 📄 wsgi.py                   # WSGI configuration
@@ -378,6 +378,7 @@ Contributions are what make the open-source community such an amazing place to l
 [⬆ Back to Top](#-codecommunity)
 
 </div>
+
 
 
 
