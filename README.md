@@ -298,26 +298,15 @@ Contributions are what make the open-source community such an amazing place to l
 
 
 
-
-## 🙏 Acknowledgments
-
-- [Django Documentation](https://docs.djangoproject.com/)
-- [Python.org](https://www.python.org/)
-- [Font Awesome](https://fontawesome.com) for icons
-- [Unsplash](https://unsplash.com) for images
-- All the amazing contributors!
-
----
-
 <div align="center">
 
 ### ⭐ Star this repository if you found it helpful!
 
-**Made with ❤️ by developers, for developers**
 
 [⬆ Back to Top](#-codecommunity)
 
 </div>
+
 
 
 
